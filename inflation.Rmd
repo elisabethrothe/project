@@ -38,11 +38,6 @@ I quote:
 # note that they must be empty and the names must correspond
 ```
 
-```{r test-inflation}
-# this chunk is also loaded from the same script
-# note that they must be empty and the names must correspond
-```
-
 
 ```{r}
  knitr::opts_chunk$set(echo = FALSE)

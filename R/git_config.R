@@ -6,7 +6,7 @@ usethis::use_git_config(
 usethis::use_git()
 
 ###
-usethis::create_github_token(description = "Token for Repro Workshop 2023 Test2")
+usethis::create_github_token(description = "Token for Repro Workshop 2023 Test3")
 
 gitcreds::gitcreds_set()
 
