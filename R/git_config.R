@@ -23,3 +23,7 @@ usethis::use_readme_rmd()
 
 repro::automate()
 repro::use_gha_docker()
+
+##make----
+repro::use_make_publish()
+repro::use_gha_publish()
