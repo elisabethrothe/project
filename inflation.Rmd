@@ -8,6 +8,7 @@ repro:
     - here
     - tidyverse
     - lubridate
+    - dplyr
     - aaronpeikert/repro@fc7e884
   scripts:
     - R/prepare_inflation.R
@@ -80,8 +81,5 @@ Inline code is for single numbers/short text:
 We have `r length(unique(rownames(mtcars)))` cars.
 
 
-```{python}
-print("Hello World! Python here, do you miss R already?")
-```
 
 
